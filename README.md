@@ -7,7 +7,7 @@ Con más de 3 año de experiencia en el diseño y desarrollo de aplicaciones web
 
 🎓 Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
 
-👨‍💻 Experiencia como Software Developer, desarrollando proyectos web, móviles, automatizaciones, integraciones API REST, pasarelas de pago y soluciones tecnológicas revolucionarias.
+👨‍💻 Experiencia como FullStack Developer, desarrollando proyectos web, móviles, automatizaciones, integraciones API REST, pasarelas de pago y soluciones tecnológicas revolucionarias.
 
 🔍 Me enfoco en la calidad del código, la experiencia de usuario y la optimización de procesos internos.
 
