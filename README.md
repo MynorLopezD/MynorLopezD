@@ -1,13 +1,13 @@
 👋 ¡Hola! Soy Mynor López
 
 💻 Desarrollador de software apasionado por crear soluciones tecnológicas innovadoras.
-Con más de 1 año de experiencia en el diseño y desarrollo de aplicaciones web, móviles y blockchain, me especializo en transformar ideas en proyectos funcionales y escalables.
+Con más de 3 año de experiencia en el diseño y desarrollo de aplicaciones web, móviles y blockchain, me especializo en transformar ideas en proyectos funcionales y escalables.
 
 🚀 Sobre mí
 
 🎓 Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
 
-👨‍💻 Experiencia como Software Developer en Comercializadora Centroamericana de Activos Digitales, S.A., desarrollando proyectos web, móviles y blockchain.
+👨‍💻 Experiencia como Software Developer, desarrollando proyectos web, móviles, automatizaciones, integraciones API REST, pasarelas de pago y soluciones tecnológicas revolucionarias.
 
 🔍 Me enfoco en la calidad del código, la experiencia de usuario y la optimización de procesos internos.
 
@@ -16,7 +16,7 @@ Con más de 1 año de experiencia en el diseño y desarrollo de aplicaciones web
 🛠️ Tecnologías y Herramientas
 Lenguajes de Programación
 
-JavaScript | Python | PHP
+JavaScript | Python | PHP | Java 
 
 Frameworks y Librerías
 
@@ -34,13 +34,11 @@ Blockchain
 
 Español (Nativo)
 
-Inglés (Intermedio)
+Inglés (Básico)
 
 📫 Conéctemos
 
 ✉️ Email: mynor.lop533@gmail.com
-
-💼 LinkedIn: linkedin.com/in/mynor-lópez-7669462b1
 
 📍 Ciudad de Guatemala, Guatemala
 
